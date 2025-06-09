@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+master/output
+master/data
+master/data_new
+master/runs
+master/yolo_phase1
+master/yolov8_random_search_seeded
+master/yolov8_random_search_seeded_1
+master/yolov8_final_training_tuned_hps
+master/yolo_phase1_test 
