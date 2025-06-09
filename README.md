@@ -1,8 +1,8 @@
-# Deep Learning for Building Detection for Completeness check in mottakskontroll – Master Thesis
+# Deep Learning for Building Detection for Completeness Check in Mottakskontroll – Master Thesis
 
 This repository contains the code developed as part of a master's thesis at NTNU. The project investigates how deep learning can support the Norwegian Mapping Authority’s *mottakskontroll* (completeness check) for FKB-building data by detecting buildings in aerial imagery using instance segmentation models.
 
-## 📂 Project Structure
+## Project Structure
 
 All the code produces in the master's thesis is in the master folder. The master folder have the following folders: 
 
